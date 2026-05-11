@@ -1,6 +1,6 @@
 {
-  "short_name": "Peri",
-  "name": "Peri - The Period Tracker App",
+  "short_name": "Ruby's Period Tracker",
+  "name": "Ruby's Period Tracker",
   "icons": [
     {
       "src": "assets/icon/192-pwa.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#eae7ff",
-  "background_color": "#f3f2ff"
+  "theme_color": "#fce4ec",
+  "background_color": "#fff0f7"
 }

@@ -52,7 +52,7 @@ const Welcome = (props: PropsWelcomeModal) => {
             style={{ fontSize: "30px", marginTop: "20px" }}
             mode="md"
           >
-            {t("Welcome to Peri")}
+            {"Welcome to Ruby's Period Tracker"}
           </IonLabel>
         </div>
         <div style={{ marginTop: "20px", marginBottom: "25px" }}>

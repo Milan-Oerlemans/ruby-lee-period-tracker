@@ -130,7 +130,7 @@ const App = (props: AppProps) => {
     if (metaStatusBarColorAndroid) {
       metaStatusBarColorAndroid.setAttribute(
         "content",
-        newTheme === "basic" ? "#eae7ff" : "#1f1f1f",
+        newTheme === "basic" ? "#fce4ec" : "#1f1f1f",
       );
     }
     const metaStatusBarColorIOS = document.querySelector(
