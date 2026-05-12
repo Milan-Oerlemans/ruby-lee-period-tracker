@@ -311,7 +311,7 @@ const App = (props: AppProps) => {
         >
           <IonApp>
             <Menu contentId="main-content" />
-            <IonReactRouter>
+            <IonReactRouter basename="/ruby-lee-period-tracker">
               <IonHeader
                 class="ion-no-border"
                 style={{
